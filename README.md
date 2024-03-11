@@ -1,6 +1,6 @@
 ![logo](https://github.com/khushbuhameed/khushbuhameed/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm khushbuhameed</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 <img align = "right" alt ="coding" width="400" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushbuhameed&label=Profile%20views&color=0e75b6&style=flat" alt="khushbuhameed" /> </p>
