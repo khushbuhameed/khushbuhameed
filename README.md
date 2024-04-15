@@ -1,4 +1,5 @@
-![logo](https://www.canva.com/design/DAGCgoUjerQ/CHws6t3FN0vub6N8oR0E5g/view?utm_content=DAGCgoUjerQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+![logo](https://img.freepik.com/free-vector/science-project-twitch-banner_23-2150894772.jpg?w=1060&t=st=1713205850~exp=1713206450~hmac=1333f86f7a5314184f450c98be24fdb8b53876d91d40e8a0bd1cf07442bf2e37)
+
 
 <h1 align="center">Hi 👋, I'm khushbuhameed</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
