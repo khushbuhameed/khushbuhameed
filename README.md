@@ -1,4 +1,4 @@
-![logo](https://github.com/khushbuhameed/khushbuhameed/blob/main/banner.png)
+![logo](https://www.canva.com/design/DAGCgoUjerQ/Efi-C-S4uEUzUl0VQr_p3Q/edit?utm_content=DAGCgoUjerQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <h1 align="center">Hi 👋, I'm khushbuhameed</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align = "right" alt ="coding" width="400" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
