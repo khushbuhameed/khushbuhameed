@@ -1,4 +1,5 @@
-![logo](C:\Users\Admin\Downloads\khushbuhameed.png)
+![logo](!https://www.canva.com/design/DAGCgoUjerQ/zYOO6gy0bxLp0PNfLvHiiA/view?utm_content=DAGCgoUjerQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview);
+
 <h1 align="center">Hi 👋, I'm khushbuhameed</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align = "right" alt ="coding" width="400" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
