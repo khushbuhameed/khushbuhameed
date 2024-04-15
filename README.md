@@ -1,4 +1,4 @@
-![logo](!https://www.canva.com/design/DAGCgoUjerQ/zYOO6gy0bxLp0PNfLvHiiA/view?utm_content=DAGCgoUjerQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview);
+![logo](https://www.canva.com/design/DAGCgoUjerQ/CHws6t3FN0vub6N8oR0E5g/view?utm_content=DAGCgoUjerQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 <h1 align="center">Hi 👋, I'm khushbuhameed</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
