@@ -1,4 +1,4 @@
-![logo](https://img.freepik.com/free-vector/science-project-twitch-banner_23-2150894772.jpg?w=1060&t=st=1713205850~exp=1713206450~hmac=1333f86f7a5314184f450c98be24fdb8b53876d91d40e8a0bd1cf07442bf2e37)
+![logo]()
 
 
 <h1 align="center">Hi 👋, I'm khushbuhameed</h1>
