@@ -1,4 +1,4 @@
-![logo]()
+![logo](C:\Users\Admin\Downloads\khushbuhameed.png)
 
 
 <h1 align="center">Hi 👋, I'm khushbuhameed</h1>
