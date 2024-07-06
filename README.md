@@ -1,4 +1,6 @@
-![github-header-image](https://github.com/khushbuhameed/khushbuhameed/assets/133598792/928d5c01-775e-47c1-b318-9ea15706bf61)
+
+
+![github-header-image (1)](https://github.com/khushbuhameed/khushbuhameed/assets/133598792/c488afec-5d99-412e-a302-f9cee5de64b6)
 
 
 
