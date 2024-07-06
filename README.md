@@ -1,4 +1,6 @@
-![logo](C:\Users\Admin\Downloads\khushbuhameed.png)
+![github-header-image](https://github.com/khushbuhameed/khushbuhameed/assets/133598792/928d5c01-775e-47c1-b318-9ea15706bf61)
+
+
 
 
 <h1 align="center">Hi 👋, I'm khushbuhameed</h1>
